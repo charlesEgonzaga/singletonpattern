@@ -10,3 +10,4 @@ In your solution you must provide the following in your Github link account:
 
 Problem statement (description of the problem. Just copy what is stated here). UML Class Diagram Uploaded java codes for the solution.
 
+![Screenshot 2023-12-12 014359](https://github.com/charlesEgonzaga/singletonpattern/assets/142955651/a4712841-f0fb-4fb6-aec9-318b87ae374d)
